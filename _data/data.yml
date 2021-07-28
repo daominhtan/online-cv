@@ -64,9 +64,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Certificate of Global Software Talent
+      university: FPT Software training cource
+      time: Jul 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,35 +76,24 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Golang Backend Developer
+      time: 2019 - Present
+      company: VNG Corporation (Zion - ZaloPay)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        ZaloPay is a mobile payment application built on top of Zalo.
+        There are more than 100 million users worldwide use ZaloPay to transfer money and make payments.
+        My role and responsibility is build the backend services help to make payments and mornitor the orders system.
+    - role: Java Backend Developer
+      time: 2018 - 2019
+      company: VNG Corporation (Data Platform)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        VNG is a leading internet technology company in Vietnam and 
+        famous for Zalo, ZaloPay, Zing, Cloud,... and especialy Game publisher in the Vietnamese market.
+        The data that comes in every day is really huge.
+        My role is to analyze, write parsing scripts for each log type and store them into the warehouse supporting many purposes.
+    - role: Java Backend Developer
+      time: 2016 - 2018
+      company: TMA Solution
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
