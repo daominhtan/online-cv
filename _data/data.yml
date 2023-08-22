@@ -162,6 +162,9 @@ skills:
     - name: Java
       level: 80%
 
+    - name: SQL, NoSQL
+      level: 80%
+
     - name: ReactJS, JavaScript
       level: 80%
 
