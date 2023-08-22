@@ -87,6 +87,7 @@ experiences:
   - role: Java Backend Developer
     time: 2018 - 2019
     company: VNG Corporation (Data Platform)
+    logo: vng-logo.png
     details: |
       VNG is a leading internet technology company in Vietnam and 
       famous for Zalo, ZaloPay, Zing, Cloud,... and especialy Game publisher in the Vietnamese market.
@@ -160,7 +161,7 @@ skills:
       level: 98%
 
     - name: Java
-      level: 80%
+      level: 90%
 
     - name: SQL, NoSQL
       level: 80%
