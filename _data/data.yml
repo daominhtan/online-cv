@@ -79,7 +79,7 @@ education:
 experiences:
   - role: Golang Backend Developer
     time: 2019 - Present
-    company: VNG Corporation (Zion - ZaloPay)
+    company: Zion (ZaloPay team)
     logo: zalopay-logo-2.png
     details: |
       ZaloPay is a mobile payment application built on top of Zalo.
@@ -96,7 +96,7 @@ experiences:
       My role is to analyze, write parsing scripts for each log type and store them into the warehouse supporting many purposes.
   - role: Java Backend Developer
     time: 2016 - 2018
-    company: TMA Solution
+    company: TMA Solution (OmniVista team)
     logo: tma-logo.jpeg
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
