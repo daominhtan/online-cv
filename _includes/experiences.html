@@ -19,8 +19,13 @@
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
-      <img height="50px" width="auto" src="{{ site.baseurl }}/assets/images/{{ experience.logo }}" alt="company logo" />
-      <div class="company">{{ experience.company }}</div>
+      <div class="company">
+        <span>
+          <img height="50px" width="auto" src="{{ site.baseurl }}/assets/images/{{ experience.logo }}"
+            alt="company logo" />
+        </span>
+        {{ experience.company }}
+      </div>
 
     </div><!--//meta-->
 
