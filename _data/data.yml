@@ -80,7 +80,7 @@ experiences:
   - role: Golang Backend Developer
     time: 2019 - Present
     company: VNG Corporation (Zion - ZaloPay)
-    logo: zalopay-logo.jpge
+    logo: zalopay-logo.jpeg
     details: |
       ZaloPay is a mobile payment application built on top of Zalo.
       There are more than 100 million users worldwide use ZaloPay to transfer money and make payments.
@@ -88,7 +88,7 @@ experiences:
   - role: Java Backend Developer
     time: 2018 - 2019
     company: VNG Corporation (Data Platform)
-    logo: vng-logo-2.jpge
+    logo: vng-logo-2.jpeg
     details: |
       VNG is a leading internet technology company in Vietnam and 
       famous for Zalo, ZaloPay, Zing, Cloud,... and especialy Game publisher in the Vietnamese market.
@@ -97,7 +97,7 @@ experiences:
   - role: Java Backend Developer
     time: 2016 - 2018
     company: TMA Solution
-    logo: tma-logo.jpge
+    logo: tma-logo.jpeg
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
