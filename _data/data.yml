@@ -101,7 +101,7 @@ experiences:
       My role are:
         - ETL: Analyze, write parsing scripts for each log type store them into the warehouse supporting many purposes.
         - BE, FE developer for tools related to data platform team
-        - Work with:: Java, Spring Boost, Pig Script, superset, spark, HDFS,...
+        - Work with: Java, Spring Boost, Pig Script, superset, spark, HDFS,...
   - role: Java Backend Developer
     time: 2016 - 2018
     company: TMA Solution (OmniVista Team)
@@ -112,7 +112,7 @@ experiences:
       Telecom, Finance & Insurance, etc.
       My role are:
         - Java Backend for application managing the network devices.
-        - Work with:: Java, Spring Boost, RestAPI, mongoDB
+        - Work with: Java, Spring Boost, RestAPI, mongoDB
 # projects:
 #   title: Projects
 #   intro: >
