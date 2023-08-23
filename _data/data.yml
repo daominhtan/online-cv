@@ -119,10 +119,10 @@ projects:
     Beside working time on company, I love to build tools, applications.
   assignments:
     - title: x-hosp
-      tagline: "Services, Mobile app to manage information of customer, doctor, appointments... (4 members, Golang, Gin-gonic, gRPC, Postgres, React Native, K8s)"
+      tagline: "Services, Mobile app to manage information of customers, doctors, appointments... (4 members, Golang, Gin-gonic, gRPC, Postgres, React Native, K8s)"
 
     - title: mshop
-      tagline: "An application managing stock, item for a mini shop (2 members with Java, MongoDB, ReactJs,)"
+      tagline: "An application managing stocks, items for a mini shop (2 members with Java, MongoDB, ReactJs, Docker)"
 
 # publications:
 #   title: Publications
