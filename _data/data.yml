@@ -25,7 +25,7 @@ sidebar:
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
   # goodreads: # Number-Username, e.g. 123456-alandoe
-  # pdf: http://www.africau.edu/images/default/sample.pdf
+  pdf: http://www.africau.edu/images/default/sample.pdf
 
   languages:
     - idiom: Vietnamese
@@ -114,31 +114,15 @@ experiences:
         - Java Backend for application managing the network devices.
         - Work with: Java, Spring Boost, RestAPI, mongoDB,...
 projects:
-  title: Projects
+  title: Personal Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Beside working time on company, I love to build tools, applications.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: x-hosp
+      tagline: "Services, Mobile app to manage information of customer, doctor, appointments... (4 members, Golang, Gin-gonic, gRPC, Postgres, React Native, K8s)"
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: mshop
+      tagline: "An application managing stock, item for a mini shop (2 members with Java, MongoDB, ReactJs,)"
 
 # publications:
 #   title: Publications
