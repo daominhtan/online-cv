@@ -29,16 +29,16 @@
 
     </div><!--//meta-->
 
-    {% if experience.details %}
-    <div class="details">
-      {{ experience.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
-    
     {% if experience.website %}
     <div class="details">
       {{ experience.website | markdownify }}
     </div><!--//website-->
+    {% endif %}
+
+    {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
     {% endif %}
 
   </div><!--//item-->
