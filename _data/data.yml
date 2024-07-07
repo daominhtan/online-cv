@@ -87,7 +87,7 @@ experiences:
       Cherry Solution Company is a global software development firm specializing in providing custom IT solutions and consulting services.
       The company emphasizes efficiency, security in its solutions, catering to different industries such as financial services, manufacturing, logistics, and public policy.
       My roles and responsibility are:
-        - BE developer: build the system and implement APIs for managing information, calculating, estimating from the collected data.
+        - Backend Developer: Build the system and implement backend APIs for managing information related to the fuel bunkering business, including calculating and estimating data from collected information.
         - Work with: Java, Spring Boot, GCP, AWS, Docker, Postgres, ...
   - role: Senior Golang Backend Developer
     time: 2019 - 2024
